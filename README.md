@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/munna_516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munna_516" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mehedi-hasan-munna-06184a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-hasan-munna-06184a227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/munna516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-hasan-munna-06184a227/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mehedi_hasan_munna___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mehedi_hasan_munna___/" height="30" width="40" /></a>
 
 </p>
