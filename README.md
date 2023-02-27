@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Munna</h1>
 <h3 align="center">I have a passion for learning and sharing my knowledge with others. I love to solve problems . I am strategic , goal oriented & always work with an end goal in my mind .</h3>
-<img align="right" alt="coding" width="270" src="https://media3.giphy.com/media/tSaApE2vVQKE8/200w.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/ArOvmHXqzEMAAAAM/mr-bean-weird-face.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna516&label=Profile%20views&color=0e75b6&style=flat" alt="munna516" /> </p>
 
 - 🔭 I’m currently studying **Computer Science & Engineering**
