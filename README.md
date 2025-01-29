@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/tbGqmMy/Mehedi-Hasan-Munna-1.png"  />
-</div>
 
-###
 
 <h1 align="center">About Me</h1>
 
@@ -12,7 +8,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Express Js<br>🎯 Goals: Earn money<br>🎲 Fun fact: I think I am funny</h4>
+<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Next Js<br>🎯 Goals: Earn money<br>🎲 Fun fact: I think I am funny</h4>
 
 ###
 
