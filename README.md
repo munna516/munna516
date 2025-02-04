@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/gYMKrqZ/Github.webp"  />
+  <img height="350" width="1000" src="https://i.ibb.co.com/Y7ZPx41k/Github-Cover.jpg"  />
 </div>
 
 
