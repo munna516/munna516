@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="1000" src="https://i.ibb.co.com/Y7ZPx41k/Github-Cover.jpg"  />
+  <img height="300" width="1000" src="https://i.ibb.co.com/1tMZQDr8/Mehedi-Hasan-Munna.png"  />
 </div>
 
 
